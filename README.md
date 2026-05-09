@@ -24,6 +24,17 @@ A desktop application to manage university student records, built with Python an
 | SQLite | Local database |
 | Tkinter ttk | Table / Treeview |
 
+## 🚀 How to Run
+
+**1. Install dependencies**
+```bash
+pip install customtkinter pillow
+```
+
+**2. Run the app**
+```bash
+python app.py
+```
 
 ## 💡 Concepts Used
 - Object-oriented programming with classes
